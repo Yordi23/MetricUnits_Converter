@@ -1,0 +1,7 @@
+150	mm	m
+0.15	m	mm
+150	cm	m
+20	dam	cm
+2689	dm	hm
+250	m	m
+5.568	mm	mm
