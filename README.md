@@ -3,6 +3,7 @@
 The goal of this program to convert values from a metric unit to another. You'll need an input file with all the data to convert, the program will create an output file with the processed data.
 
 ### Instructions
+To be able to use the program you will need to compile the Converter.cs file in Visual Studio.
 After starting the program, you must introduce the path where the input file is located. The program will create an output file with the processed data on the same path where the input file is located.
 
 ### Input file format
